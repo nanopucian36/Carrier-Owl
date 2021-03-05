@@ -5,7 +5,12 @@ subject: 'cat:cs.AI OR cat:cs.CL OR cat:cs.CE OR cat:cs.CG OR cat:cs.CV OR cat:c
 keywords:
         kaggle: 3
         resnet: 3
-        anomaly detection: 1
+        sign language: 3
+        finger character: 3
+        sign language recognition: 3
+        finger character recognition: 3
+        knowledge base: 3
+        anomaly detection: 3
 
 # 通知の閾値
 score_threshold: 0
